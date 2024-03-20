@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    Hello hi  </>
+    Hello hello</>
   )
 }
 
